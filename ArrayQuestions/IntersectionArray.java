@@ -8,7 +8,6 @@ public class IntersectionArray {
           int IntersectionArray[]=new int[arr1.length];
 
           int visited[]=new int[arr2.length];
-          int j=0;
           int l=0;
           for(int i=0;i<arr1.length;i++)
           {
